@@ -1,0 +1,2 @@
+# MMS_data_downloader
+这是一个我在Chatgpt的帮助下写的用于下载MMS卫星数据的小程序，基于Python
